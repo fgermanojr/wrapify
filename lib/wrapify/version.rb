@@ -1,3 +1,3 @@
 module Wrapify
-  VERSION = "0.1.1" # updated documentation
+  VERSION = "0.1.2" # changed repo in spec
 end

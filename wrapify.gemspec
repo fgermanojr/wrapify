@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Wrap lines at given char limit"
   spec.description   = "Wrap lines at given char limit"
-  spec.homepage      = "https://github.com/fgermanojr/emrbear_repo.git"
+  spec.homepage      = "https://github.com/fgermanojr/wrapify.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
